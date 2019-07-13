@@ -1,0 +1,8 @@
+{
+  "name": "gladys-navitia",
+  "version": "0.1.0",
+  "description": "Navitia",
+  "main": "index.js",
+  "author": "JeuFore",
+  "license": "CC-BY-NC-SA-3.0"
+}
