@@ -41,4 +41,4 @@ gladys.modules.navitia.exec(options)
 * Line ------------- (Optionnel)
 * Number ------------- (Optionnel).
 
-* § Obligatoire dans le cas où vous êtes à plus de 30m à pied d’un arrêt de transport en commun.
+§ Obligatoire dans le cas où vous êtes à plus de 30m à pied d’un arrêt de transport en commun.
